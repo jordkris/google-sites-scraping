@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="test-remote-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test-remote-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
